@@ -4,9 +4,9 @@ The Dark-Mode always wins.
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
 ### 👋 Hi, I'm Abhishek Mohata.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amohata007&label=Profile%20views&color=0e75b6&style=flat" alt="amohata007" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amohata007-12&no-frame=true&theme=gruvbox" alt="amohata007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amohata007&no-frame=true&theme=gruvbox" alt="amohata007" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
