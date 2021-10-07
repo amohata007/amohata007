@@ -8,9 +8,9 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 <p align="center">
   <a>
-   <img height="200" width="200" src="https://octodex.github.com/images/Fintechtocat.png">
+   <img height="160" width="160" src="https://octodex.github.com/images/Fintechtocat.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amohata007&theme=highcontrast"/>
-   <img height="180" width="160" src="https://octodex.github.com/images/inspectocat.jpg">
+   <img height="160" width="140" src="https://octodex.github.com/images/inspectocat.jpg">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amohata007&no-frame=true&theme=gruvbox" alt="amohata007" /></a> </p>
