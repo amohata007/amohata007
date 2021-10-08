@@ -4,7 +4,7 @@ The Dark-Mode always wins.
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
 ### 👋 Hi, I'm Abhishek Mohata.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amohata007&label=Profile%20views&color=0e75b6&style=flat" alt="amohata007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amohata007&label=Profile%20views&color=0e75b6&style=flat" alt="amohata007" /> </p><br>
 
 <p align="center">
   <a>
