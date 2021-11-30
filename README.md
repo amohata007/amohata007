@@ -15,7 +15,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amohata007&no-frame=true&theme=gruvbox" alt="amohata007" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Myself**
 
 - 📫 How to reach me **amohata.005@gmail.com**
 
