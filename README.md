@@ -21,7 +21,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-mohata-b48a5b15a/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-mohata-b48a5b15a/" target="_blank"><img src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://icons8.com/icon/13930/linkedin)" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
