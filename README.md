@@ -9,7 +9,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 <p align="center">
   <a>
    <img height="160" width="160" src="https://octodex.github.com/images/Fintechtocat.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amohata007&theme=highcontrast"/>&nbsp&nbsp
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amohata007&theme=dark"/>&nbsp&nbsp
    <img height="125" width="100" src="https://octodex.github.com/images/inspectocat.jpg">
 </p>
 
