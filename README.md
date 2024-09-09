@@ -13,7 +13,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
    <img height="125" width="100" src="https://octodex.github.com/images/inspectocat.jpg">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amohata007&no-frame=true&theme=gruvbox" alt="amohata007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amohata007&no-frame=true&theme=transparent" alt="amohata007" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **Myself** -->
 
