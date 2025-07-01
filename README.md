@@ -1,65 +1,71 @@
-![Dark Side](https://github.com/amohata007/amohata007/blob/main/darkside.jpg)  
-The Dark-Mode always wins.
+<!-- Header Image -->
+<p align="center">
+  <img src="https://github.com/amohata007/amohata007/blob/main/darkside.jpg" width="100%" alt="Dark Mode Banner"/>
+</p>
 
-Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
+<h1 align="center">🌑 The Dark Mode Always Wins</h1>
+<p align="center"><i>Balancing between <code>"It doesn’t work...! Why?"</code> and <code>"It works...! Why?"</code></i></p>
 
 ---
 
-### 👋 Hi, I'm Abhishek Mohata
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amohata007&label=Profile%20views&color=0e75b6&style=flat" alt="amohata007" />
+<h2 align="center">👋 Hello there! I'm <span style="color:#40E0D0;">Abhishek Mohata</span></h2>
+<p align="center">
+  🚀 Frontend Developer | 🎯 Focused on Performance & UI/UX | 🧠 Lifelong Learner
 </p>
 
 <p align="center">
-  <img height="160" width="160" src="https://octodex.github.com/images/Fintechtocat.png">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amohata007&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
-  <img height="125" width="100" src="https://octodex.github.com/images/inspectocat.jpg">
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amohata007&no-frame=true&theme=gruvbox" alt="Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=amohata007&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-- 📫 Reach me at: **amohata.005@gmail.com**
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,redux,tailwind,bootstrap,git,html,css,python,firebase,mysql&perline=8" />
+</p>
 
 ---
 
-### 🤝 Connect with me:
-<p align="left">
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amohata007&show_icons=true&count_private=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amohata007&theme=dark&background=000000" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amohata007&theme=gruvbox&no-frame=true&column=7" />
+</p>
+
+---
+
+### 📬 Reach Me At
+
+<p align="center">
+  <a href="mailto:amohata.005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/abhishek-mohata-b48a5b15a/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/62801988/130545739-f1d9c21b-9424-4c35-b0ea-842586b42760.png" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💻 Languages and Tools:
-<p align="left">
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://angular.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://devdocs.io/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+### 🐱‍💻 Octocats
+
+<p align="center">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" height="120" />
+  <img src="https://octodex.github.com/images/inspectocat.jpg" height="120" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amohata007&count_private=true&hide=issues,contribs&show_icons=true&theme=dark" alt="Abhishek's GitHub Stats" />
+  <i>“Code. Debug. Learn. Repeat.”</i>
 </p>
