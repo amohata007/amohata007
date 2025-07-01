@@ -27,11 +27,11 @@
 
 ---
 
-### 📈 GitHub Insights
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amohata007&show_icons=true&count_private=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amohata007&theme=dark&background=000000" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amohata007&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amohata007&theme=github_dark" />
 </p>
 
 ---
