@@ -10,7 +10,7 @@
 
 <h2 align="center">👋 Hello there! I'm <span style="color:#40E0D0;">Abhishek Mohata</span></h2>
 <p align="center">
-  🚀 Frontend Developer | 🎯 Focused on Performance & UI/UX | 🧠 Lifelong Learner
+  🚀 FullStack Developer | 🎯 Focused on Performance & UI/UX | 🧠 Lifelong Learner
 </p>
 
 <p align="center">
