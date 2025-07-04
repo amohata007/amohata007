@@ -57,15 +57,6 @@
 
 ---
 
-### 🐱‍💻 Octocats
-
-<p align="center">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" height="120" />
-  <img src="https://octodex.github.com/images/inspectocat.jpg" height="120" />
-</p>
-
----
-
 <p align="center">
   <i>“Code. Debug. Learn. Repeat.”</i>
 </p>
