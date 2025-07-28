@@ -3,7 +3,7 @@
   <img src="https://github.com/amohata007/amohata007/blob/main/darkside.jpg" width="100%" alt="Dark Mode Banner"/>
 </p>
 
-<h1 align="center">🌑 The Dark Mode Always Wins</h1>
+<h1 align="center">🌑 The Dark Mode Always Wins..!!</h1>
 <p align="center"><i>Balancing between <code>"It doesn’t work...! Why?"</code> and <code>"It works...! Why?"</code></i></p>
 
 ---
