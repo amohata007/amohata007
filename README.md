@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🌑 The Dark Mode Always Wins..!!</h1>
-<p align="center"><i>Balancing between <code>"It doesn’t work...! Why?"</code> and <code>"It works...! Why?"</code></i></p>
+<p align="center"><i>Balancing between <code>"It doesn’t work...! Why?"</code> and <code>"It works..!! Why?"</code></i></p>
 
 ---
 
